@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* UML
+* 
+## UML
     * [Model](UML/Model.md)
 
